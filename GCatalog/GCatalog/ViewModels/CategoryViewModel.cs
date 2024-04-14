@@ -1,19 +1,21 @@
 ﻿using GCatalog.Models;
 using HtmlAgilityPack;
+using CommunityToolkit;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using CommunityToolkit.Mvvm.ComponentModel;
 
 namespace GCatalog.ViewModels;
 
-public class CategoryViewModel : ObservableObject
+public partial class CategoryViewModel:ObservableObject
 {
     public CategoryViewModel()
     {
-        CategoryList = LoadCategory();
+        categoryList = LoadCategory();
     }
 
-    public ObservableCollection<Category> CategoryList { get; }
+    [ObservableProperty]
+    public ObservableCollection<Category> categoryList;
 
     public ObservableCollection<Category> LoadCategory()
     {
@@ -29,8 +31,8 @@ public class CategoryViewModel : ObservableObject
 
         foreach (var c in cats)
         {
-            if (c.InnerText.Trim() != "" && c.Attributes["href"].Value != ""
-                && c.InnerText.Trim() != null && c.Attributes["href"].Value != null)
+            if (c.InnerText.Trim() != "" && c.Attributes["href"].Value.Trim() != ""
+                && c.InnerText.Trim() != null && c.Attributes["href"].Value.Trim() != null)
             {
                 categoryList.Add(
                     new Category

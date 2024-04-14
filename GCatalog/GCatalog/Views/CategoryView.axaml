@@ -8,10 +8,10 @@
              x:Class="GCatalog.Views.CategoryView"
 			 x:DataType="vm:CategoryViewModel">
 	
-	<ListBox x:Name="catList" Background="White" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+	<ListBox x:Name="catList" ScrollViewer.VerticalScrollBarVisibility="Hidden">
 		<ListBox.ItemTemplate>
 			<DataTemplate DataType="{x:Type models:Category}">
-				<Button Background="CadetBlue" Margin="0,-5"
+				<Button Margin="0,-5"
 						Width="80" HorizontalContentAlignment="Center"
 						Content="{Binding Name}">
 				</Button>
