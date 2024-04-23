@@ -31,5 +31,8 @@
     <Compile Update="Views\CategoryView.axaml.cs">
       <DependentUpon>CategoryView.axaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\GunplaView.axaml.cs">
+      <DependentUpon>GunplaView.axaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 </Project>

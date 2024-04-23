@@ -4,13 +4,12 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 			 xmlns:vm ="using:GCatalog.ViewModels"
 			 xmlns:models="using:GCatalog.Models"
-			 Width="100"
              x:Class="GCatalog.Views.CategoryView"
 			 x:DataType="vm:CategoryViewModel">
 	
-	<ListBox ItemsSource="" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+	<ListBox ItemsSource="{Binding CategoryCollection}" ScrollViewer.VerticalScrollBarVisibility="Hidden">
 		<ListBox.ItemTemplate>
-			<DataTemplate DataType="{x:Type vm:CategoryViewModel}">
+			<DataTemplate>
 				<Button Margin="0,-5"
 						Width="80" HorizontalContentAlignment="Center"
 						Content="{Binding Name}">

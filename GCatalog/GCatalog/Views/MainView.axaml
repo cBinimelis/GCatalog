@@ -3,7 +3,91 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:vm="clr-namespace:GCatalog.ViewModels"
-             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             Width="100"
              x:Class="GCatalog.Views.MainView">
              
+    <ListBox ScrollViewer.VerticalScrollBarVisibility="Hidden">
+        <!--
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="MG">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="MG2">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="RG">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="HG">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="PG">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="SD">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="SD2">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="SEED">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="OO">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="AGE">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="BUILD">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="IBO">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="ETC/G">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="CLUB-G">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="OLD">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="ETC/M">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="ETC/F">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="SW">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="KOTO/M">
+        </Button>
+        <Button Margin="0,-5"
+                Width="80" HorizontalContentAlignment="Center"
+                Content="KOTO/F">
+        </Button>
+    -->
+	</ListBox>
 </UserControl>
