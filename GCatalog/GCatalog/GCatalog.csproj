@@ -9,6 +9,11 @@
   <ItemGroup>
     <AvaloniaResource Include="Assets\**" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <None Remove="Assets\dalong_files\MG List.txt" />
+    <None Remove="Assets\mg_cata1_e.htm" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="11.0.10" />

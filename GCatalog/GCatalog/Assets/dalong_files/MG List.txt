@@ -1,0 +1,238 @@
+﻿MGEX
+01 Unicorn Gundam
+02 Strike Freedom Gundam
+
+M01 Gundam RX-78
+M02 Zaku II (Char's)
+M03 Zaku II
+M04 Gundam G3
+M05 Z Gundam
+M06 Zaku II (Matsunaga's)
+M07 Zaku II (J. Ridden's)
+M08 Gelgoog (Char's)
+M09 Gelgoog Cannon
+M10 Gundam GP01
+M11 Gelgoog
+M12 Gundam GP01FB
+M13 Gundam GP02
+M14 Gundam Mk. II (AEUG)
+M15 Gundam Mk. II (Titans)
+M16 Super Gundam
+M17 GM
+M18 Zaku I
+M19 Zaku I (Black's)
+M20 Zaku II (Black's)
+M21 Dom
+M22 Gundam NT-1
+M23 Rick Dom
+M24 GM Custom
+M25 GM Quel
+M26 ZZ Gundam
+M27 Gundam (ground type)
+M28 Gundam RX-78 v1.5
+M29 Sazabi
+M30 Full Armor ZZ Gundam
+M31 Zaku I (Ramba Ral's)
+M32 Gouf
+M33 Gundam Ez8
+M34 Nu(υ) Gundam
+M35 Kampfer
+M36 Gouf Custom
+M37 Hyaku-Shiki (百式)
+M38 Gundam GP03
+M39 Re-Gz
+M40 GM (ground type)
+M41 Qubeley
+M42 FAZZ (Sentinel)
+M43 Zeta Plus Test Color
+M44 God Gundam
+M45 Gun Cannon
+M46 Zeta Plus C1
+M47 Master Gundam
+M48 Zaku II F2 (Zeon)
+M49 Shining Gundam
+M50 GM Kai (earth type)
+M51 Zeong
+M52 RX-78 (Casval's)
+M53 Gundam Spiegel
+M54 Zaku II F2 (E.F.S.F.)
+M55 S Gundam
+M56 GM Kai (space type)
+M57 Gundam RX-78 Ver. Ka
+M58 Rick Dom (Char's)
+M59 Gelgoog (Gato's)
+M60 Ex-S Gundam
+M61 Z'gok
+M62 Gogg
+M63 Gundam G04
+M64 Gundam G05
+M65 Aile Strike Gundam
+M66 Z'gok (Char's)
+M67 Perfect Gundam
+M68 Qubeley Mk-II (PleTwo)
+M69 Wing Gundam Ver.Ka
+M70 Rick Dias
+M71 Perfect Zeong
+M72 Freedom Gundam
+M73 Hi-Zack (v.Titans)
+M74 Strike Rouge
+M75 Wing Gundam 0 Custom
+M76 Ball Ver. Ka
+M77 Rick Dias (Quattro's)
+M78 Gundam RX-78 (v.OYW)
+M79 Ball (ver. 08 MS team)
+M80 Acguy
+M81 百式 + Ballute System
+M82 Gundam Mk-II v2.0
+M83 Zeta Gundam v2.0
+M84 Nemo
+M85 Mk-II v2.0 (Titans)
+M86 Gyan
+M87 Gundam F91
+M88 Ball (Shark Mouth)
+M89 Cross Bone Gundam X1
+M90 Strike Gundam + I.W.S.P.
+M91 Gundam F91 (Harrison's)
+M92 GM Sniper
+M93 Strike Freedom Gundam
+M94 Crossbone X1 - Full Cloth
+M95 Hi-nu(υ) Gundam 
+M96 Strike Noir Gundam
+M97 Zaku II J v2.0
+M98 Zaku II Char's v2.0
+M99 Gelgoog v2.0
+M100 ∀ Gundam
+M101 Destiny Gundam
+M102 Unicorn Gundam Ver.Ka
+M103 Zaku II v2.0 (Black's)
+M104 Strike E + I.W.S.P. 
+M105 Zaku Minelayer
+M106 Zaku II F v2.0
+M107 Gelgoog v2.0 (Mass)
+M108 Launcher/Swaord Strike
+M109 Force Impulse Gundam
+M110 Shin Musha Gundam
+M111 Gundam RX-78 v2.0
+M112 Zaku Cannon
+M113 Zaku II v2.0 (J.Ridden)
+M114 Infinite Justice Gundam
+M115 Zaku II v2.0 (Matsunaga)
+M116 Sinanju
+M117 G-Fighter
+M118 GM v2.0
+M119 Sword Impulse Gundam
+M120 Gouf v2.0
+M121 G-Armor Real type color
+M122 Zaku II v2.0 ~ White Ogre
+M123 Gundam Exia
+M124 Guntank
+M125 Astray Blue/2nd. Revise 
+M126 Qubeley Mk-II (Elpeo Ple)
+M127 V Gundam Ver.Ka
+M128 G3 Gundam v2.0 
+M129 GN-X
+M130 Astray Red Frame
+M131 Unicorn Gundam v.OVA
+M132 Wing Gundam
+M133 Mmusha Gundam MKII
+M134 Full Armor Gundam
+M135 Core Booster
+M136 V-Dash Gundam
+M137 The O
+M138 Gundam Deathscythe
+M139 ReZEL
+M140 QAN[T]
+M141 ReZEL Commander type
+M142 Deathscythe Hell
+M143 Shenlong Gundam
+M144 Wing Gundam ~ EW
+M145 OO Raiser
+M146 Gundam Epyon
+M147 Delta Plus
+M148 OO Seven Sword/G
+M149 Gundam Sandrock
+M150 Full Armor Unicorn
+M151 Gundam Sandrock
+M152 Duel Gundam A.S.
+M153 Gundam AGE-1 Normal
+M154 Gundam AGE-1 Titus
+M155 Unicorn Banshee
+M156 Gundam AGE-1 Spallow
+M157 Marasai
+M158 Blitz Gundam
+M159 Gundam AGE-2 Normal
+M160 Buster Gundam
+M161 Aegis Gundam
+M162 AGE-2 Dark Hound
+M163 Nu Gundam Ver. Ka
+M164 Tallgeese
+M165 Sinanju Stein [Ver. Ka]
+M166 ReZEL typc-C [GR]
+M167 Sinanju Ver. Ani
+M168 Jesta
+M169 Aile Strike Gundam RM
+M170 AGE-2 Double Bullet
+M171 Geara Doga
+M172 RX-78 Gundam Ver.3.0
+M173 Strike Rouge + Ootori
+M174 Wing Gundam Proto 0
+M175 Sazabi Ver. Ka
+M176 Build Strike Gundam F.P.
+M177 Gundam X
+M178 Unicorn 03 Phenex
+M179 Sengoku Astray Gundam
+M180 Build Gundam Mk-II
+M181 Universe Booster
+M182 Turn X
+M183 Hi-nu Gundam Ver. Ka
+M184 Astray Blue Frame D
+M185 Gundam Exia Dark Matter
+M186 Gundam Double X
+M187 Hyaku-Shiki Ver.2.0
+M188 Fenice Rinascita
+M189 Amazing Red Warrior
+M190 Gundam The Origin
+M191 V2 Gundam Ver.Ka
+M192 Freedom Gundam v2.0
+M193 FA Gundam [TB] Ver.Ka
+M194 Psycho Zaku [TB] Ver.Ka
+M195 GM Sniper II
+M196 Providence Gundam
+M197 Justice Gundam
+M198 ZZ Gunddam Ver. Ka
+M199 GM Sniper Custom
+M200 GM Command [Colony]
+M201 Banshee Ver. Ka
+M202 Deep Striker
+M203 Gundam F91 Ver.2.0
+M204 Jegan
+M205 OO QAN[T] Full Saber
+M206 Sinanju Stein [Narrative]
+M207 Gundam Dynames
+M208 Gundam AGE II Magnum
+M209 Ex-S / S Gundam
+M210 Gundam NT-1 Ver.2.0
+M211 Gunner Zaku Warrior L.C.
+M212 Gundam Barbatos
+M213 FAZZ Ver.Ka
+M214 Gundam Kyrios
+M215 Wing Zero EW Ver.Ka
+M216 Mobile Ginn
+M217 Eclipse Gundam
+M218 Gundam Virtue
+M219 Dom (new)
+M220 Rick Dom (new)
+M221 Zeta Gundam Ver.Ka.
+
+▶ Patlabor/Dunbine
+MP1 Ingram 1
+MP2 Ingram 2
+MP3 Ingram 3
+MP4 Griffon Aqua type
+MP5 Griffon Filight Type
+MP6 Ingram 1 (reactive armor)
+MP7 Ingram 2 (flash unit)
+MP8 Ingram 3 (reactive armor)
+MP9 Ingram Special Set
+MD1 Dunbine
+
